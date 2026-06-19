@@ -1,4 +1,3 @@
-# ------------------- ГЕНЕРАЦИЯ ОТЧЕТА -------------------
 from data import students, classes
 from utils import calculate_average, get_attendance_rate
 
