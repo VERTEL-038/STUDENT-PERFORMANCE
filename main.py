@@ -1,7 +1,7 @@
 from ui import show_menu, show_test_data
 from report import generate_report
 
-def main():
+def main(): #функция реализует основной цикл работы приложения с меню
     while True:
         show_menu()
         choice = input("\nВведите номер действия: ").strip()
