@@ -1,4 +1,3 @@
-# ------------------- ИНТЕРФЕЙС -------------------
 from data import students, classes
 
 def show_menu():
