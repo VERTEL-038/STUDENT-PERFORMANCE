@@ -1,4 +1,3 @@
-# ------------------- ЗАПУСК ПРОГРАММЫ -------------------
 from ui import show_menu, show_test_data
 from report import generate_report
 
