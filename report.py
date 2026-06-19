@@ -1,9 +1,7 @@
 from data import students, classes
 from utils import calculate_average, get_attendance_rate
 
-
-def generate_report():
-    # Создаём список, куда будем сохранять информацию о каждом студенте
+def generate_report(): #создает список, куда будет сохраняться информация о каждом студенте
     student_stats = []
 
     # Заполняем student_stats информацией о каждом студенте
